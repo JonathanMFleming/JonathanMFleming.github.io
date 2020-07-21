@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/jonathanmfleming.github.io/static/css/main.28827cf4.chunk.css",
+    "main.js": "/jonathanmfleming.github.io/static/js/main.0888296d.chunk.js",
+    "main.js.map": "/jonathanmfleming.github.io/static/js/main.0888296d.chunk.js.map",
+    "runtime-main.js": "/jonathanmfleming.github.io/static/js/runtime-main.fb29c9aa.js",
+    "runtime-main.js.map": "/jonathanmfleming.github.io/static/js/runtime-main.fb29c9aa.js.map",
+    "static/js/2.d67d3ce3.chunk.js": "/jonathanmfleming.github.io/static/js/2.d67d3ce3.chunk.js",
+    "static/js/2.d67d3ce3.chunk.js.map": "/jonathanmfleming.github.io/static/js/2.d67d3ce3.chunk.js.map",
+    "index.html": "/jonathanmfleming.github.io/index.html",
+    "precache-manifest.20848607005ebda41b2db784105505b8.js": "/jonathanmfleming.github.io/precache-manifest.20848607005ebda41b2db784105505b8.js",
+    "service-worker.js": "/jonathanmfleming.github.io/service-worker.js",
+    "static/css/main.28827cf4.chunk.css.map": "/jonathanmfleming.github.io/static/css/main.28827cf4.chunk.css.map",
+    "static/js/2.d67d3ce3.chunk.js.LICENSE.txt": "/jonathanmfleming.github.io/static/js/2.d67d3ce3.chunk.js.LICENSE.txt",
+    "static/media/computerimage.png": "/jonathanmfleming.github.io/static/media/computerimage.7f98453e.png",
+    "static/media/smartNotesLogo.png": "/jonathanmfleming.github.io/static/media/smartNotesLogo.459be765.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb29c9aa.js",
+    "static/js/2.d67d3ce3.chunk.js",
+    "static/css/main.28827cf4.chunk.css",
+    "static/js/main.0888296d.chunk.js"
+  ]
+}
